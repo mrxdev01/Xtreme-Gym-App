@@ -1,0 +1,18 @@
+# Xtreme Fitness Gym
+
+> Premium fitness gym in Pratap Nagar, Jaipur (near NRI Circle). Strength, cardio, weight loss & certified personal training. ⭐ 4.8/5 from 188 Google reviews.
+
+Xtreme Fitness Gym is a full-service fitness center in Pratap Nagar, Jaipur. We offer strength training, cardio, HIIT, weight loss programs, body building, CrossFit-style conditioning, and 1-on-1 personal training. Open 5:00 AM – 10:30 PM. Plans from ₹2,000/month or ₹12,000/year. Free trial available.
+
+Contact: +91 9782089774 · Pratap Nagar, NRI Circle, Jaipur, Rajasthan, India
+
+## Pages
+- [Home](/): Overview, hero, key programs, location, and contact
+- [Services](/services): Full list of services offered at the gym
+- [Programs](/programs): Strength, weight loss, cardio/HIIT, body building, personal training
+- [Coaches](/coaches): Certified trainers and personal training team
+- [Pricing](/pricing): Membership plans and pricing details
+- [Gallery](/gallery): Photos of the gym, equipment, and facilities
+- [Reviews](/reviews): Member reviews and ratings
+- [About](/about): About Xtreme Fitness Gym and our story
+- [Contact](/contact): Address, phone, WhatsApp, hours, and directions
